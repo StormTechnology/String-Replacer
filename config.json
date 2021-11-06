@@ -1,0 +1,12 @@
+{
+  "baseDirectory": "D:",
+  "includedDirectories": [
+    "<base>\\plugins"
+  ],
+  "excludedDirectories": [
+    "<base>\\plugins\\CloudCrates"
+  ],
+  "replaceable": {
+    "%%__NAME__%%": "Chubbyduck1"
+  }
+}
